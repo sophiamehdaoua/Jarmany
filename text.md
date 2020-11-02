@@ -2,4 +2,4 @@
 
 `I have always had a keen interest in problem solving, this can be seen through my research project where I used Python skills which I have developed independently over the past 11 months. Having had no experience manually analysing image data, I made confirmed detections of the Lac Alaotra Bamboo Lemur in low resolution thermal images taken in drone flight. This achievement further confirms my belief that new challenges are not something to be intimidated by but opportunities to learn. This cross-disciplinary project involved a large amount of collaboration with a Software Engineer, a Meteorologist, and Astrophysicists.`
 
-`This project and a variety of other projects throughout my course have further confirmed my belief that new challenges are not something to be intimidated by, put opportunities for growth if you are willing to maintain a positive attitude.`
+`Studiying Data Science having previously studied Zoology, and in particular this project, has further confirmed my belief that new challenges are not something to be intimidated by, put opportunities for growth if you are willing to maintain a positive attitude.`
