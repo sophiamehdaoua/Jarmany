@@ -1,1 +1,1 @@
-# Stantec
+# Kantar
