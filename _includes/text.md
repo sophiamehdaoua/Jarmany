@@ -8,4 +8,4 @@
 
  `Thank you for considering me for this role,`
 
-*I look forward to hearing from you!* 
+*I look forward to hearing from you!*
