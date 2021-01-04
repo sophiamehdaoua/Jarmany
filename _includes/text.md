@@ -2,6 +2,4 @@
 
 `I’m a highly self motivated person, since completing my masters I’ve strived to continuously expand my skills.  In my free time, I have been conducting analysis into a US Fatal Police Shootings dataset combined with census data in R, learning basic HTML/CSS as well as ArcGIS, and gaining experience as a Code Volunteer (mainly Python) with Ignite Hubs. Lastly I’ve been training as an Impact Analyst with the organisation Impaakt which involves writing articles using a high level of quantitative information on how companies fall in line with the UN SDGs. This has encouraged me to conduct thorough research into a variety of businesses globally, which has improved my commercial awareness.` 
 
- `Thank you for considering me for this role,`
-
-*I'm available immediately, so I hope to hearing from you soon!*
+ *Thank you for considering me for this role, I'm available immediately and look forward to hearing from you soon!*
